@@ -43,7 +43,7 @@ The application is hosted on Shinyapps.io here: https://zigwang.shinyapps.io/shi
 
 ---------------
 #### Contact
-Authors: [Zigui Wang]<zigwang97@gmail.com>, [Tianjing Zhao](tjzhao@ucdavis.edu), [Hao Cheng](qtlcheng@ucdavis.edu).
+Authors: [Zigui Wang](zigwang97@gmail.com), [Tianjing Zhao](tjzhao@ucdavis.edu), [Hao Cheng](qtlcheng@ucdavis.edu).
 
 ---------------
 #### JWAS package
