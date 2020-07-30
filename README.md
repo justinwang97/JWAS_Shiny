@@ -27,7 +27,7 @@ This section generates a Venn diagram of the sets A = {phenotyped individuals}, 
 
 ---------------
 #### Manhattan Plot Section
-This section helps the user to visualize the GWAS result. Once uploading the file containing GWAS results, a preview will be shown on the right top. And the interactive manhattan plot provided by R package "manhattanly" will also be shown. Users can use slider inputs to change the title and thresholds. The information of the genomic marker/window can be shown by clicking the point. it is straightforward to download, zoom in, or zoom out the plot. 
+This section helps the user to visualize the GWAS result. Once uploading the file containing GWAS results, a preview will be shown on the right top. And the interactive manhattan plot provided by R package "manhattanly" will also be shown. Users can use slider inputs to change the title, y-axis label and thresholds. The information of the genomic marker/window can be shown by clicking the point. it is straightforward to download, zoom in, or zoom out the plot. 
 
 ---------------
 #### Convergence Diagnosis Section
