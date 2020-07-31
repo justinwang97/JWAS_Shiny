@@ -13,7 +13,7 @@ authors:
   - name: Hao Cheng
     affiliation: 1
 affiliations:
- - name: University of California, Davis
+ - name: Department of Animal Science, University of California Davis
    index: 1
 
 date: 31 July 2020
