@@ -1,11 +1,11 @@
 ---
-title: 'ShinyJWAS: Shiny-based application to help perform whole-genome Bayesian regression analysis with JWAS package'
+title: 'ShinyJWAS: Shiny-based Application to Help Perform Whole-genome Bayesian Regression Analysis with JWAS package'
 tags:
   - R
   - quantitative genetics
 
 authors:
-  - name: Zigui Wang^[Custom footnotes for e.g. denoting who the corresspoinding author is can be included like this.]
+  - name: Zigui Wang
     orcid: 0000-0003-0872-7098
     affiliation: 1 # (Multiple affiliations must be quoted)
   - name: Tianjing Zhao
